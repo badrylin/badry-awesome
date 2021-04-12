@@ -14,3 +14,8 @@
 
 1. **KeyboardJS** 一个在浏览器中使用的库（与node.js兼容）.它使开发人员可以轻松设置键绑定和使用组合键来设置复杂的绑定.
 2. **SortableJS** 功能强大的JavaScript 拖拽库
+
+## 图形/图像处理库
+
+1. **html2canvas** 一个强大的使用js开发的浏览器网页截图工具
+2. **dom-to-image** 一个可以将任意DOM节点转换为用JavaScript编写的矢量（SVG）或光栅（PNG或JPEG）图像的库
