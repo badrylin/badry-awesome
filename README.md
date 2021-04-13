@@ -9,6 +9,8 @@
 - [moment](https://github.com/moment/moment) 处理日期的库
 - [big.js](https://github.com/MikeMcl/big.js) 轻量级浮点数的精度计算库
 - [qs](https://github.com/ljharb/qs) url参数格式化
+- [mathjs](https://github.com/josdejong/mathjs) 一个Node.js和JavaScript上的math扩展库，并且和内置的Math库兼容
+- [chancejs](https://github.com/chancejs/chancejs) 一个用来随机生成字符串、数字等的函数, 虽然只有3K个stars，但是这个库真的非常方便
 
 ## 鼠标/键盘相关
 
