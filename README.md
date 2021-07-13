@@ -16,6 +16,7 @@
 
 - [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) 一个在浏览器中使用的库（与node.js兼容）.它使开发人员可以轻松设置键绑定和使用组合键来设置复杂的绑定.
 - [SortableJS](https://github.com/SortableJS/Sortable) 功能强大的JavaScript 拖拽库
+- [react-dnd](https://github.com/react-dnd/react-dnd) react专属拖拽库
 
 ## 图形/图像处理库
 
