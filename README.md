@@ -1,4 +1,4 @@
-# awesome-badry
+# badry-awesome
 
 前端调包侠
 
