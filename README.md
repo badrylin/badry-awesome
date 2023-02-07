@@ -24,6 +24,7 @@
 - [dom-to-image](https://github.com/search?q=dom-to-image) 一个可以将任意DOM节点转换为用JavaScript编写的矢量（SVG）或光栅（PNG或JPEG）图像的库
 - [reaflow](https://github.com/reaviz/reaflow) react流程图
 - [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) json图形化
+- [slidev](https://github.com/slidevjs/slidev) 支持了幻灯片一样的切换动画
 
 ## docker
 
